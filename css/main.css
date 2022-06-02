@@ -131,7 +131,7 @@ body {
   border-radius: 20px;
   background-color: #FFFFFF;
   color: #000000;
-  padding: 55px 82px 40px 65px;
+  padding: 55px 63px 40px 65px;
 }
 
 .user-title{
@@ -142,7 +142,7 @@ body {
 }
 
 .user-input{
-  width: 450px;
+  width: 442px;
   margin-top: 35px;
   padding-bottom: 11px;
   outline: none;
